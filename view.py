@@ -14,3 +14,6 @@ def get_phone():
     phone = input('Введите телефон контакта: ')
     return phone
 
+def action():
+    act = input('Введите действие: ')
+    return act
